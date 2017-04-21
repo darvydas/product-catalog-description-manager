@@ -1,0 +1,13 @@
+Sistemoje yra 3 vartotojø grupës:
+
+Pirmoji - Vartotojai
+Prisijungimo vardas: vartotojas
+Slaptaþodis: vartotojas
+
+Antroji - Valdytojai
+Prisijungimo vardas: valdytojas
+Slaptaþodis: valdytojas
+
+Treèioji - Administratoriai
+Prisijungimo vardas: administratorius
+Slaptaþodis: administratorius
